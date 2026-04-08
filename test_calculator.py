@@ -27,13 +27,13 @@ class TestCalculator(unittest.TestCase):
             div(0,5)
 
     def test_logarithm(self): # 3 assertions
-        self.assertEqual(3, log(2, 8))
-        self.assertEqual(2, log(10,100))
-        self.assertEqual(2, log(9,81))
+        self.assertEqual(3, logarithm(2, 8))
+        self.assertEqual(2, logarithm(10,100))
+        self.assertEqual(2, logarithm(9,81))
 
     def test_log_invalid_base(self): # 1 assertion
         with self.assertRaises(ValueError):
-            log (1, 2)
+            logarithm (1, 2)
     
     ######## Partner 1
     # def test_log_invalid_argument(self): # 1 assertion
