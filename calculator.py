@@ -1,3 +1,6 @@
+#https://github.com/asoewito/lab11-AS-IM 
+#Partner 1: Alison Soewito
+#Partner 2: Isabella Miceli
 """
 calculator.py
 - Defines functions used to create a simple calculator
