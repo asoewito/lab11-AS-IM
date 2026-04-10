@@ -1,3 +1,6 @@
+#https://github.com/asoewito/lab11-AS-IM 
+#Partner 1: Alison Soewito
+#Partner 2: Isabella Miceli
 import unittest
 from calculator import *
 
